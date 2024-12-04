@@ -10,8 +10,11 @@ body{
 #color-box{
     width: 200px;
     height: 200px;
-    background-color: #ffcccb;
+    background-color: #dac8c8;
     margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #change-color-btn{
     padding: 10px 20px;
